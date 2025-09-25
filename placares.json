@@ -1,0 +1,53 @@
+{
+    "classificacao": {
+        "1": {
+            "casa": "75",
+            "visitante": "80"
+        },
+        "2": {
+            "casa": "",
+            "visitante": ""
+        },
+        "3": {
+            "casa": "",
+            "visitante": ""
+        },
+        "4": {
+            "casa": "",
+            "visitante": ""
+        },
+        "5": {
+            "casa": "",
+            "visitante": ""
+        },
+        "6": {
+            "casa": "",
+            "visitante": ""
+        },
+        "7": {
+            "casa": "",
+            "visitante": ""
+        },
+        "8": {
+            "casa": "",
+            "visitante": ""
+        },
+        "9": {
+            "casa": "",
+            "visitante": ""
+        },
+        "10": {
+            "casa": "",
+            "visitante": ""
+        },
+        "11": {
+            "casa": "",
+            "visitante": ""
+        },
+        "12": {
+            "casa": "",
+            "visitante": ""
+        }
+    },
+    "playoffs": {}
+}
