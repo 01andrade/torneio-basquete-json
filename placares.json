@@ -49,54 +49,5 @@
             "visitante": ""
         }
     },
-    "playoffs": {
-        "13": {
-            "casa": "",
-            "visitante": ""
-        },
-        "14": {
-            "casa": "",
-            "visitante": ""
-        },
-        "15": {
-            "casa": "",
-            "visitante": ""
-        },
-        "16": {
-            "casa": "",
-            "visitante": ""
-        },
-        "17": {
-            "casa": "",
-            "visitante": ""
-        },
-        "18": {
-            "casa": "",
-            "visitante": ""
-        },
-        "19": {
-            "casa": "",
-            "visitante": ""
-        },
-        "20": {
-            "casa": "",
-            "visitante": ""
-        },
-        "21": {
-            "casa": "",
-            "visitante": ""
-        },
-        "22": {
-            "casa": "",
-            "visitante": ""
-        },
-        "23": {
-            "casa": "",
-            "visitante": ""
-        },
-        "24": {
-            "casa": "",
-            "visitante": ""
-        }
-    }
+    "playoffs": {}
 }
