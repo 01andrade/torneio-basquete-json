@@ -29,25 +29,74 @@
             "visitante": "75"
         },
         "8": {
-            "casa": "",
-            "visitante": ""
+            "casa": "75",
+            "visitante": "101"
         },
         "9": {
-            "casa": "",
-            "visitante": ""
+            "casa": "98",
+            "visitante": "52"
         },
         "10": {
-            "casa": "",
-            "visitante": ""
+            "casa": "67",
+            "visitante": "85"
         },
         "11": {
+            "casa": "79",
+            "visitante": "61"
+        },
+        "12": {
+            "casa": "75",
+            "visitante": "90"
+        }
+    },
+    "playoffs": {
+        "13": {
             "casa": "",
             "visitante": ""
         },
-        "12": {
+        "14": {
+            "casa": "",
+            "visitante": ""
+        },
+        "15": {
+            "casa": "",
+            "visitante": ""
+        },
+        "16": {
+            "casa": "",
+            "visitante": ""
+        },
+        "17": {
+            "casa": "",
+            "visitante": ""
+        },
+        "18": {
+            "casa": "",
+            "visitante": ""
+        },
+        "19": {
+            "casa": "",
+            "visitante": ""
+        },
+        "20": {
+            "casa": "",
+            "visitante": ""
+        },
+        "21": {
+            "casa": "",
+            "visitante": ""
+        },
+        "22": {
+            "casa": "",
+            "visitante": ""
+        },
+        "23": {
+            "casa": "",
+            "visitante": ""
+        },
+        "24": {
             "casa": "",
             "visitante": ""
         }
-    },
-    "playoffs": {}
+    }
 }
