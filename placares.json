@@ -29,24 +29,24 @@
             "visitante": "75"
         },
         "8": {
-            "casa": "75",
-            "visitante": "101"
+            "casa": "",
+            "visitante": ""
         },
         "9": {
-            "casa": "98",
-            "visitante": "52"
+            "casa": "",
+            "visitante": ""
         },
         "10": {
-            "casa": "67",
-            "visitante": "85"
+            "casa": "",
+            "visitante": ""
         },
         "11": {
-            "casa": "79",
-            "visitante": "61"
+            "casa": "",
+            "visitante": ""
         },
         "12": {
-            "casa": "75",
-            "visitante": "90"
+            "casa": "",
+            "visitante": ""
         }
     },
     "playoffs": {
